@@ -1,0 +1,1230 @@
+<?xml version="1.0"?>
+<ftest>
+<spm_testname>AgilePassport Foundation Exam Preparation</spm_testname>
+<spm_testtype>Foundation</spm_testtype>
+<spm_testtimeout>2400</spm_testtimeout>
+<spm_testquestnos>50</spm_testquestnos>
+<spm_testpassmark>50</spm_testpassmark>
+<spm_test_version>Julias 30 questions <!-- JGQ1 --> + Foundation Sample Paper Feb15 <!-- SPQ1 --></spm_test_version>
+<spm_testbank>
+
+	<test>
+	<spm_test_name>Introduction to Agile</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>
+		
+		<spm_questions><!-- JGQ3 -->
+			<spm_question>Which of the following Agile approaches deals with projects and not just the development and delivery of a product?</spm_question>
+			<spm_objectives>
+				<spm_association>PC0103</spm_association>
+				<spm_reference>[] AgilePM ref 2.5 - The other three approaches are seen as lightweight, with minimum structure and guidance, DSDM focusses on the wider business need and on all aspects of the solution that evolves to meet that need.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-8-A" ans="0">Scrum</spm_option>
+				<spm_option id="AP2-IN-8-B" ans="0">Lean</spm_option>
+				<spm_option id="AP2-IN-8-C" ans="0">Extreme Programming (XP)</spm_option>
+				<spm_option id="AP2-IN-8-D" ans="1">DSDM</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ4 -->
+			<spm_question>Which of the following is not a description of an agile style of working?</spm_question>
+			<spm_objectives>
+				<spm_association>PC0101</spm_association>
+				<spm_reference>[] AgilePM ref 2.3 - DSDM advocates that projects should do enough design up front to allow the project to move to the next step.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-9-A" ans="0">Flexibility</spm_option>
+				<spm_option id="AP2-IN-9-B" ans="0">Working closely with the customer throughout</spm_option>
+				<spm_option id="AP2-IN-9-C" ans="0">Ensuring the final solution actually meets the business need</spm_option>
+				<spm_option id="AP2-IN-9-D" ans="1">Making decisions about the detail as soon as possible</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ7  -->
+			<spm_question>Which of the following statements about DSDM are true?  1. May be used to supplement an existing in-house Agile approach.  2. Deals with the development and delivery of a product rather than the full project.  3. Works alongside existing standards and approaches.  4. Suited to the development of new solutions and enhancing existing solutions </spm_question>
+			<spm_objectives>
+				<spm_association>PC0103 </spm_association>
+				<spm_reference>[] AgilePM ref 2.5 - DSDM has a broader focus than most Agile approaches in that it deals with projects rather than just the development and delivery of a product. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">1, 2, 3 </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">2, 3, 4 </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">1, 3, 4 </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">1, 2, 4 </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+	</spm_questionbank>
+	</test>
+
+
+
+	
+	<test>	
+	<spm_test_name>Agile Project Management - The Basics</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>		
+		
+		<spm_questions><!-- JGQ2 -->
+			<spm_question>According to DSDM philosophy is that any project must be aligned to clearly defined [?] goals</spm_question>
+			<spm_objectives>
+				<spm_association>LP0207</spm_association>
+				<spm_reference>[] AgilePM ref 6.1 - DSDM philosophy states that "best business value emerges when projects are aligned to clear business goals, deliver frequently and involve the collaboration of motivated and empowered people".</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-7-A" ans="0">Strategic</spm_option>
+				<spm_option id="AP2-IN-7-B" ans="1">Business</spm_option>
+				<spm_option id="AP2-IN-7-C" ans="0">Stakeholder</spm_option>
+				<spm_option id="AP2-IN-7-D" ans="0">User</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ5 -->
+			<spm_question>Which project parameter is variable in a DSDM approach?</spm_question>
+			<spm_objectives>
+				<spm_association>PC0102</spm_association>
+				<spm_reference>[] AgilePM ref 3.2 - The DSDM approach to project management fixes time, cost and quality while contingency is managed by varying the features to be delivered.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-10-A" ans="0">Cost</spm_option>
+				<spm_option id="AP2-IN-10-B" ans="0">Time</spm_option>
+				<spm_option id="AP2-IN-10-C" ans="0">Quality</spm_option>
+				<spm_option id="AP2-IN-10-D" ans="1">Features</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ6 -->
+			<spm_question>Which of these statements does NOT justify the eight principles of DSDM?</spm_question>
+			<spm_objectives>
+				<spm_association>PC0104</spm_association>
+				<spm_reference>[] AgilePM ref 4.0 - The minimum useable subset of requirements are used by the MoSCoW technique, not a principle</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-10-A" ans="0">Principles support the philosophy</spm_option>
+				<spm_option id="AP2-IN-10-B" ans="0">Principles define the highest attitude and mind set by the team</spm_option>
+				<spm_option id="AP2-IN-10-C" ans="1">Principles define the minimum useable subset of requirements</spm_option>
+				<spm_option id="AP2-IN-10-D" ans="0">Applying all principles ensures maximum benefit</spm_option>
+			</spm_options>
+		</spm_questions>
+	
+		<spm_questions><!-- JGQ24 -->
+			<spm_question>At each [] of product development a result is achieved that gets successively closer to the desired outcome.</spm_question>
+			<spm_objectives>
+				<spm_association>TE0209</spm_association>
+				<spm_reference>[] AgilePM ref 11.1 - This is a description of Iterative development</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-CO-9-A" ans="1">Iteration</spm_option>
+				<spm_option id="AP2-CO-9-B" ans="0">Stage</spm_option>
+				<spm_option id="AP2-CO-9-C" ans="0">Phase</spm_option>
+				<spm_option id="AP2-CO-9-D" ans="0">Work package</spm_option>
+			</spm_options>
+		</spm_questions>	
+		
+		<spm_questions><!-- SPQ2  -->
+			<spm_question>Which statement relates to the DSDM view on formality and scalability? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0207 </spm_association>
+				<spm_reference>[] AgilePM ref 6.9 - Typically this is achieved by configuring a lifecycle appropriate for a specific project and determining an appropriate level of formality with which the DSDM products are defined, created and approved. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">The aim is to remove all formality, so that the team can get on with building the solution </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Agile must be informal, otherwise it stops being fun </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">It is entirely formal, to enable management and control </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="1">The DSDM process can be configured and calibrated to cater for a range of projects </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ8  -->
+			<spm_question>What in DSDM is designed to shape the attitude and mindset of a DSDM team? </spm_question>
+			<spm_objectives>
+				<spm_association>PC0201 </spm_association>
+				<spm_reference>[] AgilePM ref 4.10 - The eight principles help direct and shape the attitude and mindset of a DSDM team. Compromising any of the principles undermines DSDM’s philosophy, as together they deliver a collective value that outweighs their individual benefits. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Phases </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Philosophy </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">Principles </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Processes </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ14  -->
+			<spm_question>What is Iterative Development? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0102 </spm_association>
+				<spm_reference>[] AgilePM ref 12.3.1 - This describes Iterative development. With each iteration additional features can be designed, developed and tested. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">A design, develop and test cycle which is repeated until there is a fully functional solution </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">A gated process where development can not begin until the finished design is complete </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">An early sample, model or release of a product to test a concept or process </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">The process and activity of planning, organizing, motivating and controlling resources to achieve a specific goal </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ16  -->
+			<spm_question>Which approach correctly reflects the use of MoSCoW prioritisation? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0203 </spm_association>
+				<spm_reference>[] AgilePM ref 10.3 - The primary focus initially is to create MoSCoW priorities for the project. However, when deciding what to deliver as part of the Project Increment, the next focus will be to agree MoSCoW priorities for that Increment. So, at this point, a requirement may have two priorities: MoSCoW for the project and MoSCoW for the Increment. Finally, when planning a specific Timebox (at the start of each Timebox) the Solution Development Team will allocate a specific priority for the requirements for this Timebox. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">Relates to a specific timeframe </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Applied and fixed during Foundations </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Only applied at project level </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Is optional </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ17  -->
+			<spm_question>Which statement about late delivery is correct for DSDM? </spm_question>
+			<spm_objectives>
+				<spm_association>PC0105.2 </spm_association>
+				<spm_reference>[] AgilePM ref 4.3 - Delivering a solution on time is a very desirable outcome for a project and is quite often the single most important success factor. Late delivery can often undermine the very rationale for a project, especially where market opportunities or legal deadlines are involved. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Is acceptable provided sufficient warning is given </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Can often undermine the very rationale for a project </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Is a fact of life and should be expected </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Can be really annoying for the Business </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ18  -->
+			<spm_question>What DSDM product describes, at a high level, the requirements that the project needs to address and indicates their priority with respect to meeting the objectives of the project and the needs of the business? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0209.1 </spm_association>
+				<spm_reference>[] AgilePM ref 8.2.3 - Consideration of requirements begins in Feasibility and a baseline of the PRL describes the scope of the project as at the end of Foundations. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Terms of Reference </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Prioritised Requirements List </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Solution Architecture Definition </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Development Approach Definition </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ27  -->
+			<spm_question>Which of the following is the name of a DSDM principle? </spm_question>
+			<spm_objectives>
+				<spm_association>PC0104.1 </spm_association>
+				<spm_reference>[] AgilePM ref 4.2 - There are eight principles: Focus on the business need; Deliver on time; Collaborate; Never compromise quality; Build incrementally from firm foundations; Develop iteratively; Communicate continuously and clearly; Demonstrate control. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Focus on the business demands </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Focus on the business need </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Focus on the business wants </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Focus on the requirements specification </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ33  -->
+			<spm_question>Which outcome is related to the DSDM principle of Collaborate? </spm_question>
+			<spm_objectives>
+				<spm_association>PC0106.1 </spm_association>
+				<spm_reference>[] AgilePM ref 4.4 - Teams that work in a spirit of active cooperation and commitment will always outperform groups of individuals working only in loose association. Collaboration encourages increased understanding, greater speed and shared ownership, which enable teams to perform at a level that exceeds the sum of their parts. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">Team performance exceeds the sum of the parts </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Exceptional developers are appointed </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Blame is apportioned when necessary </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Individuals work in loose association </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ34  -->
+			<spm_question>Which purpose relates to the Foundations phase? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0203 </spm_association>
+				<spm_reference>[] AgilePM ref 6.4 - The Foundations phase establishes a fundamental understanding of the business rationale for the project, the potential solution and how development and delivery of the solution will be managed. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Converge over time on an accurate solution that meets a business need </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Establish whether the project appears costeffective </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">Establish how development and delivery of the solution will be managed </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Bring a baseline of the solution into operational use </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ44  -->
+			<spm_question>Identify the missing word(s) in the following sentence:  A DSDM project will always deliver a viable solution, as long as the practices of [?] and Timeboxing are followed. </spm_question>
+			<spm_objectives>
+				<spm_association>PC0102 </spm_association>
+				<spm_reference>[] AgilePM ref 3.2 - Delivery of a Minimum SubseT (MUST) of requirements is guaranteed as a worst case scenario. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Daily Standups </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">MoSCoW </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Iterative Development </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Incremental Delivery </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ45  -->
+			<spm_question>Which of the following statements about building quality using the DSDM process is true?  1. A high-level assessment of the risks to achieving the level of quality required is done during Foundations.  2. Final end-to-end testing during Deployment allows for the testing of back-out procedures. </spm_question>
+			<spm_objectives>
+				<spm_association>LP0214 </spm_association>
+				<spm_reference>[] AgilePM ref 9.6 - (2) The statement is true. Final end-to-end testing, including the testing of back-out procedures, is carried out during Deployment. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Only 1 is true </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Only 2 is true </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Both 1 and 2 are true </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Neither 1 or 2 is true </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ47  -->
+			<spm_question>Which statement is part of the definition of the DSDM Principle 8 – Demonstrate Control? </spm_question>
+			<spm_objectives>
+				<spm_association>PC0108.2 </spm_association>
+				<spm_reference>[] AgilePM ref 4.9 - This is the DSDM definition of Principle 8 – Demonstrate Control. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Late delivery can undermine the very rationale for a project </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">It is vital to ensure transparency of all work being performed by the team </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Collaboration encourages increased understanding, greater speed and shared ownership. </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">It is important to recognize that projects operate within a changing world </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+	</spm_questionbank>
+	</test>
+
+
+
+	
+	<test>	
+	<spm_test_name>Roles and Responsibilities</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>		
+	
+		<spm_questions><!-- JGQ8 -->
+			<spm_question>Which is NOT a DSDM role?</spm_question>
+			<spm_objectives>
+				<spm_association>PR0101</spm_association>
+				<spm_reference>[] AgilePM ref 7 - A Team Manager is not role defined in the DSDM approach</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-10-A" ans="0">Team Leader</spm_option>
+				<spm_option id="AP2-IN-10-B" ans="0">Business Analyst</spm_option>
+				<spm_option id="AP2-IN-10-C" ans="0">Solution Tester</spm_option>
+				<spm_option id="AP2-IN-10-D" ans="1">Team Manager</spm_option>
+			</spm_options>
+		</spm_questions>
+	
+		<spm_questions><!-- JGQ9 -->
+			<spm_question>Which is not one of the three role categories defined in the DSDM approach?</spm_question>
+			<spm_objectives>
+				<spm_association>PR0102</spm_association>
+				<spm_reference>[] AgilePM ref 7.2.2 - Board is not one of the three role categories.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-10-A" ans="0">Supporting</spm_option>
+				<spm_option id="AP2-IN-10-B" ans="0">Project</spm_option>
+				<spm_option id="AP2-IN-10-C" ans="0">Solution Development Team</spm_option>
+				<spm_option id="AP2-IN-10-D" ans="1">Board</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ10 -->
+			<spm_question>Which role is responsible for the project during its duration?</spm_question>
+			<spm_objectives>
+				<spm_association>PR0204</spm_association>
+				<spm_reference>[] AgilePM ref 7.3.4 - This responsibility includes both business and technical delivery aspects of the project from Foundations (if not Feasibility) through to deployment.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-10-A" ans="1">Project Manager</spm_option>
+				<spm_option id="AP2-IN-10-B" ans="0">Team Leader</spm_option>
+				<spm_option id="AP2-IN-10-C" ans="0">Business Sponsor</spm_option>
+				<spm_option id="AP2-IN-10-D" ans="0">Business Visionary</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ11 -->
+			<spm_question>A Business Sponsor...</spm_question>
+			<spm_objectives>
+				<spm_association>PR0201</spm_association>
+				<spm_reference>[] AgilePM ref 7.3.1 - The Business Sponsor is responsible for the business case throughout the project.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-RR-12-A" ans="0">..manages business involvement within the solution Development Teams </spm_option>
+				<spm_option id="AP2-RR-12-B" ans="0">..communicates and promotes the business vision to the project</spm_option>
+				<spm_option id="AP2-RR-12-C" ans="1">..owns the business case for the project</spm_option>
+				<spm_option id="AP2-RR-12-D" ans="0">..ensures the non-functional requirements are achievable</spm_option>
+			</spm_options>
+		</spm_questions>	
+		
+		<spm_questions><!-- JGQ12 -->
+			<spm_question>Which of these roles is not part of the Solution development team?</spm_question>
+			<spm_objectives>
+				<spm_association>PR0102</spm_association>
+				<spm_reference>[] AgilePM ref 7.2.2.1 - The Technical Co-ordinator is a Project level role</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-RR-17-A" ans="0">Business Ambassador</spm_option>
+				<spm_option id="AP2-RR-17-B" ans="0">Solution developer</spm_option>
+				<spm_option id="AP2-RR-17-C" ans="0">Team Leader</spm_option>
+				<spm_option id="AP2-RR-17-D" ans="1">Technical Co-ordinator</spm_option>
+			</spm_options>
+		</spm_questions>
+			
+		<spm_questions><!-- JGQ13 -->
+			<spm_question>Which role is defined within the Supporting Roles category?</spm_question>
+			<spm_objectives>
+				<spm_association>PR0206</spm_association>
+				<spm_reference>[] AgilePM ref 7.3.12 - The Workshop Facilitator is responsible for planning, organising and facilitating workshops.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-RR-18-A" ans="0">Business Advisor</spm_option>
+				<spm_option id="AP2-RR-18-B" ans="0">Technical Advisor</spm_option>
+				<spm_option id="AP2-RR-18-C" ans="1">Workshop Facilitator</spm_option>
+				<spm_option id="AP2-RR-18-D" ans="0">Business Visionary</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ16 -->
+			<spm_question>Incremental delivery enables...</spm_question>
+			<spm_objectives>
+				<spm_association>LP0103</spm_association>
+				<spm_reference>[] AgilePM ref 5.5- An organisation amenable to incremental delivery of solutions into live use will benefit from early return on investment</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-PR-12-A" ans="0">..no return on investment</spm_option>
+				<spm_option id="AP2-PR-12-B" ans="0">..latest possible return on investment</spm_option>
+				<spm_option id="AP2-PR-12-C" ans="1">..early return on investment</spm_option>
+				<spm_option id="AP2-PR-12-D" ans="0">..steady return on investment</spm_option>
+			</spm_options>
+		</spm_questions>		
+
+		<spm_questions><!-- JGQ17 -->
+			<spm_question>Which is a responsibility of the Project Manager?</spm_question>
+			<spm_objectives>
+				<spm_association>PR0204</spm_association>
+				<spm_reference>[] AgilePM ref 7.3.4 - The Project Manger needs to manage the working environment in which the solution is evolving, coordinating all aspects of management of the project at a high level. They leave the detailed planning and actual delivery of the product(s) to the Solution Development Team.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-PR-20-A" ans="0">Defining exactly what the team need to do to deliver the products</spm_option>
+				<spm_option id="AP2-PR-20-B" ans="1">Protecting the team from interruptions</spm_option>
+				<spm_option id="AP2-PR-20-C" ans="0">Protecting the products from change in order to prevent time and cost overruns</spm_option>
+				<spm_option id="AP2-PR-20-D" ans="0">Renegotiate the end date of the project if problems arise within a Timebox</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ1  -->
+			<spm_question>Which of the following is NOT stated as a benefit of using DSDM?</spm_question>
+			<spm_objectives>
+				<spm_association>LP0101 </spm_association>
+				<spm_reference>[] AgilePM ref 2.6 - Whilst DSDM’s approach and style is founded on an underlying ethos of common sense, it does not negate the need for training. This is not stated as a benefit. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">User training becomes unnecessary </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">The business is more likely to feel ownership of the solution as it evolves </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Deployment is more likely to go smoothly, due to the cooperation of all parties </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">The risk of building the wrong solution is greatly reduced </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ3  -->
+			<spm_question>Which roles form part of the Solution Development Team? </spm_question>
+			<spm_objectives>
+				<spm_association>PR0102.2 </spm_association>
+				<spm_reference>[] AgilePM ref 7.2.2.2 - The Solution Development Team roles are Business Ambassador, Solution Developer, Solution Tester, Business Analyst and Team Leader. These roles form the “engine room” of the project. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Solution Developer, Business Analyst, Technical Coordinator </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Solution Developer, Business Analyst, Business Ambassador </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Technical Coordinator, Business Visionary, Business Sponsor </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Technical Coordinator, Business Visionary, Business Analyst </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ4  -->
+			<spm_question>What role is responsible for ensuring that the solution delivered will enable the benefits described in the Business Case to be achieved? </spm_question>
+			<spm_objectives>
+				<spm_association>PR0202 </spm_association>
+				<spm_reference>[] AgilePM ref 7.3.2 - The Business Visionary remains involved throughout the project, providing the team with strategic direction and ensuring that the solution delivered will enable the benefits described in the Business Case to be achieved. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Business Advisor </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Business Analyst </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Business Sponsor </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="1">Business Visionary </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ11  -->
+			<spm_question>Which responsibility relates to the Solution Development Team roles? </spm_question>
+			<spm_objectives>
+				<spm_association>PR0101 </spm_association>
+				<spm_reference>[] AgilePM ref 7.2.2.2 -Solution Development Team roles form the ‘engine room’ of the project. They shape and build the solution.  </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Direct the project </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Shape and build the solution </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Govern the project </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Ensure that the technical roles work in a consistent way </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ12  -->
+			<spm_question>In DSDM, what role must hold a sufficiently high position in the organisation to be able to resolve business issues and make financial decisions? </spm_question>
+			<spm_objectives>
+				<spm_association>PR0201 </spm_association>
+				<spm_reference>[] AgilePM ref 7.3.1 - This role is the most senior project-level business role. The Business Sponsor is the project champion who is committed to the project, to the proposed solution and the approach to delivering it. The Business Sponsor is specifically responsible for the Business Case and project budget throughout. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Business Advisor </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Business Analyst </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">Business Sponsor </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Business Visionary </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ25  -->
+			<spm_question>What DSDM role ensures that the solution/technical roles work in a consistent way? </spm_question>
+			<spm_objectives>
+				<spm_association>PR0203 </spm_association>
+				<spm_reference>[] AgilePM ref 7.3.3 - As the project’s technical authority, the Technical Coordinator ensures that the solution/technical roles work in a consistent way, that the project is technically coherent and meets the desired technical standards. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">Technical Coordinator </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Team Leader </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Project Manager </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Solution Tester </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+		<spm_questions><!-- SPQ31  -->
+			<spm_question>What DSDM role ensures that the Solution Development Team functions as a whole and meets its objectives? </spm_question>
+			<spm_objectives>
+				<spm_association>PR0205.2 </spm_association>
+				<spm_reference>[] AgilePM ref 7.3.6 - The Team Leader ideally acts as the servant-leader for the Solution Development Team and ensures that it functions as a whole and meets its objectives. The Team Leader works with the team to plan and coordinate all aspects of product delivery at the detailed level. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Business Analyst </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Project Manager </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">Team Leader </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Solution Tester </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ36  -->
+			<spm_question>Which of the following is a responsibility of the DSDM Project Manager role? </spm_question>
+			<spm_objectives>
+				<spm_association>PR0204 </spm_association>
+				<spm_reference>[] AgilePM ref 7.3.4 - The Project Manager coordinates all aspects of management of the project at a high level but in line with the DSDM concept of empowerment. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Creates detailed plans for the actual delivery of the solution </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Coordinates all aspects of management of the project at a high level </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Leaves all project planning to the Team Leader </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Acts as the servant-leader for the Solution Development Team </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ39  -->
+			<spm_question>During Iterative Development, which testing activity relates to the role of the Solution Tester? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0205 </spm_association>
+				<spm_reference>[] AgilePM ref 12.3.4.3 - As part of a collaborative team, the Solution Tester will be supporting other roles to fulfill their testing responsibilities by providing testing knowledge and expertise. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Business acceptance testing </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Unit testing of a feature </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Ensuring that testing is sufficient </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="1">Providing testing knowledge and expertise </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ41  -->
+			<spm_question>What role is responsible for providing specific input to the project from the perspective of those who will maintain the solution? </spm_question>
+			<spm_objectives>
+				<spm_association>PR0206.2 </spm_association>
+				<spm_reference>[] AgilePM ref 7.3.11 - The Technical Advisor supports the team by providing specific, and often specialist, technical input to the project, often from the perspective of those responsible for operational change management, operational support, ongoing maintenance of the solution, etc. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Solution Developer </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Solution Tester </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Business Advisor </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="1">Technical Advisor </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+		<spm_questions><!-- SPQ49  -->
+			<spm_question>During a Facilitated Workshop, which action relates to the role of the Workshop Facilitator? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0201 </spm_association>
+				<spm_reference>[] AgilePM ref 12.1.3 - Decisions and agreements are not forced. If participants cannot agree on a point, the Workshop Facilitator should recognize this outcome and elicit from the group the appropriate action to remedy the shortfall. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Ensure their opinion on the content is understood by others </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Represent their own interest throughout the workshop </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">Agree appropriate action with the workshop members to resolve any disagreements </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Decide the outcome and document findings </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+	</spm_questionbank>
+	</test>
+
+
+
+	
+	<test>	
+	<spm_test_name>Preparing for Agile Project Management</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>		
+							
+		<spm_questions><!-- JGQ14 -->
+			<spm_question>Configuration Management in an Agile environment...</spm_question>
+			<spm_objectives>
+				<spm_association>TE0204</spm_association>
+				<spm_reference>[] AgilePM ref 12.3.3 - Configuration management is an important consideration as there is sometimes a need to revert to what was previously agreed.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-PR-4-A" ans="0">..is unnecessary </spm_option>
+				<spm_option id="AP2-PR-4-B" ans="1">..must not impede progress</spm_option>
+				<spm_option id="AP2-PR-4-C" ans="0">..must always be formal and document driven</spm_option>
+				<spm_option id="AP2-PR-4-D" ans="0">..does not require training</spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+		<spm_questions><!-- JGQ15 -->
+			<spm_question>Which is NOT a factor instrumental to Success?</spm_question>
+			<spm_objectives>
+				<spm_association>LP0103</spm_association>
+				<spm_reference>[] AgilePM ref 5.4.1- DSDM requires commitment of business time throughout</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-PR-11-A" ans="0">Transparency</spm_option>
+				<spm_option id="AP2-PR-11-B" ans="0">Business Engagement</spm_option>
+				<spm_option id="AP2-PR-11-C" ans="0">Effective Solution Development Team</spm_option>
+				<spm_option id="AP2-PR-11-D" ans="1">Exclusion of the customer from the lifecycle</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ20  -->
+			<spm_question>Which characteristic does NOT relate to the Solution Development Team? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0102 </spm_association>
+				<spm_reference>[] AgilePM ref 5.3.2 - Stability is required within the team. A DSDM project will be put at serious risk if team members are swapped in and out. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Each role empowered to make decisions </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Flexibility to swap team members in and out of the team </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Desire and authority to make day-to-day decisions </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Business knowledge and technical expertise </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ24  -->
+			<spm_question>What is the purpose of the Feasibility phase? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0202 </spm_association>
+				<spm_reference>[] AgilePM ref 6.3 - The Feasibility phase is intended primarily to establish whether the proposed project is likely to be feasible from a technical perspective and whether it appears cost-effective from a business perspective. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Converge over time on an accurate solution that meets a business need </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Establish whether the project appears costeffective </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Establish how development and delivery of the solution will be managed </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Bring a baseline of the solution into operational use </spm_option>
+			</spm_options>
+		</spm_questions>
+
+	</spm_questionbank>
+	</test>
+
+
+	
+	<test>	
+	<spm_test_name>The Pre-Project and Foundation Phases and Products</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>		
+
+		<spm_questions><!-- JGQ1 -->
+			<spm_question>To ensure that a DSDM project has appropriate governance applied, it needs to get the balance right between...?</spm_question>
+			<spm_objectives>
+				<spm_association>LP0207</spm_association>
+				<spm_reference>[] AgilePM ref 6.9 - The DSDM process can be configured for a specific project and the appropriate level of formality can be determined with which the DSDM products are defined and created.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-6-A" ans="0">Too many features and too few features</spm_option>
+				<spm_option id="AP2-IN-6-B" ans="0">Too much documentation and too little documentation</spm_option>
+				<spm_option id="AP2-IN-6-C" ans="1">Too much formality and too little formality</spm_option>
+				<spm_option id="AP2-IN-6-D" ans="0">Too many resources and too few resources</spm_option>
+			</spm_options>
+		</spm_questions>	
+		
+		<spm_questions><!-- JGQ18 -->
+			<spm_question>What product is the high level definition of the business driver for the project</spm_question>
+			<spm_objectives>
+				<spm_association>LP0208</spm_association>
+				<spm_reference>[] AgilePM ref 8.2.1 - This is an objective of the Terms of Reference</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-PP-5-A" ans="1">Terms of Reference</spm_option>
+				<spm_option id="AP2-PP-5-B" ans="0">Feasibility Assessment</spm_option>
+				<spm_option id="AP2-PP-5-C" ans="0">Outline Plan</spm_option>
+				<spm_option id="AP2-PP-5-D" ans="0">Benefits Assessment</spm_option>
+			</spm_options>
+		</spm_questions>
+				
+		<spm_questions><!-- JGQ19 -->
+			<spm_question>Which is not a Business product?</spm_question>
+			<spm_objectives>
+				<spm_association>LP0210</spm_association>
+				<spm_reference>[] AgilePM ref 8.2.5 - The Development Approach Definition is a product relating to the solution.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-EE-4-A" ans="0">Terms of Reference</spm_option>
+				<spm_option id="AP2-EE-4-B" ans="1">Solution Foundations</spm_option>
+				<spm_option id="AP2-EE-4-C" ans="0">Prioritised Requirements List</spm_option>
+				<spm_option id="AP2-EE-4-D" ans="0">Benefits Assessment</spm_option>
+			</spm_options>
+		</spm_questions>		
+						
+		<spm_questions><!-- JGQ29 -->
+			<spm_question>The purpose of the delivery plan is to provide a high level schedule of project increments and at least for the first increment, the [?] that make up that increment.</spm_question>
+			<spm_objectives>
+				<spm_association>LP0211</spm_association>
+				<spm_reference>[] AgilePM ref 8.2.6 - The purpose of the delivery plan is to provide a high level schedule of project increments and at least for the first increment, the Timeboxes that make up that increment.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-AC-5-A" ans="0">Stage</spm_option>
+				<spm_option id="AP2-AC-5-B" ans="1">Timeboxes</spm_option>
+				<spm_option id="AP2-AC-5-C" ans="0">Features</spm_option>
+				<spm_option id="AP2-AC-5-D" ans="0">Resources</spm_option>
+			</spm_options>
+		</spm_questions>	
+		
+		<spm_questions><!-- SPQ10  -->
+			<spm_question>When does DSDM state that the PostProject phase takes place? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0206 </spm_association>
+				<spm_reference>[] AgilePM ref 6.7 - After the final Deployment for a project, the PostProject phase checks how well the expected business benefits have been met. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">After Evolutionary Development </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Before the project is closed </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">When the solution is assembled </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="1">After the final Deployment for a project </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ13  -->
+			<spm_question>What is the purpose of the DSDM PreProject phase? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0201 </spm_association>
+				<spm_reference>[] AgilePM ref 6.2 - The PreProject phase ensures that only the right projects are started, and that they are set up correctly, based on a clearly defined objective. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">Ensures that only the right projects are started and set up correctly </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Assesses the viability of the project </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Ensures the project can be carried out by the Solution Development Team </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Plans and resources the Foundations phase </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ15  -->
+			<spm_question>Which objective relates to the DSDM Deployment phase? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0205 </spm_association>
+				<spm_reference>[] AgilePM ref 6.6 - The objective of the Deployment phase is to bring a baseline of the Evolving Solution into operational use. The release that is deployed may be the final solution, or a subset of the final solution. After the last release, the project is formally closed. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">Bring a baseline of the Evolving Solution into operational use </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Create a functional solution that demonstrably meets the needs of the business </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Give the wider organisation an early view of the solution that they will eventually use </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Describe how quality will be assured </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ38  -->
+			<spm_question>In the Business Case, what does the business vision describe? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0208.2 </spm_association>
+				<spm_reference>[] AgilePM ref 8.2.2 - The business vision describes a changed business as it expected to be, incrementally and at the end of the project. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Objectives of the project in terms of return on investment </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">What the changed business is expected to look like </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Future projects required to meet business goals </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Business Sponsors’ list of requirements </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+		<spm_questions><!-- SPQ40  -->
+			<spm_question>Which purpose relates to the Project Approach Questionnaire? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0104 </spm_association>
+				<spm_reference>[] AgilePM ref 5.7 - A simple checklist used to assess whether the success factors described above are likely to be met or whether action needs to be taken to counter the risk arising from any of them being undermined. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Justification for the project from a business perspective </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Assess whether the Instrumental Success Factors are likely to be met </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">List the requirements that the project needs to address and how they meet the business need </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Scope and justify the Feasibility phase </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ48  -->
+			<spm_question>Which of the following statements about the Solution Architecture Definition is true?  1. The Solution Architecture Definition contains the strategy for testing and review of the solution.  2. The Solution Architecture Definition contains both business and technical aspects of the solution. </spm_question>
+			<spm_objectives>
+				<spm_association>LP0210.1 </spm_association>
+				<spm_reference>[] AgilePM ref 8.2.4 - The Solution Architecture Definition is intended to cover both business and technical aspects of the solution to a level of detail that makes the scope of the solution clear but does not constrain evolutionary development. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Only 1 is true </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Only 2 is true </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Both 1 and 2 are true </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Neither 1 or 2 is true </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ50  -->
+			<spm_question>What is the Foundation Summary used for? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0212.2 </spm_association>
+				<spm_reference>[] AgilePM ref 8.2.9 - A snapshot of the evolving business, solution and management products is captured in the Foundation Summary at the end of the Foundations phase. It is used to help decide as to whether the project is likely to deliver the required return on investment. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">For establishing if the scope of the solution is clear and allows for evolutionary development </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">To provide a high-level schedule of Project Increments </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">For helping to decide whether the investment in the project is worthwhile </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">To prioritise the project within a wider portfolio of projects </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+	</spm_questionbank>
+	</test>
+
+
+	
+	<test>	
+	<spm_test_name>Evolutionary Development, Deployment and Post-Project Phases</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>		
+				
+		<spm_questions><!-- JGQ20 -->
+			<spm_question>Which product is refined for detail as the projects moves through Evolutionary Development reflecting changes drawn out during timeboxes?</spm_question>
+			<spm_objectives>
+				<spm_association>LP0208</spm_association>
+				<spm_reference>[] AgilePM ref C3.2 / 8.2.3 - The PRL is baselined at a high level at the end of the Foundations phase and refined for detail as it proceeds through Evolutionary Development.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-PP-6-A" ans="0">Solution Architecture Definition</spm_option>
+				<spm_option id="AP2-PP-6-B" ans="1">Prioritised Requirements List</spm_option>
+				<spm_option id="AP2-PP-6-C" ans="0">Terms of Reference</spm_option>
+				<spm_option id="AP2-PP-6-D" ans="0">Project Review Report</spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+		<spm_questions><!-- SPQ21  -->
+			<spm_question>Which DSDM product describes what has been achieved in a Timebox together with any feedback that may influence plans moving forwards? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0213.2 </spm_association>
+				<spm_reference>[] AgilePM ref 8.2.12 - The Timebox Review Record captures the feedback from each review that takes place during a Timebox. It describes what has been achieved up to that point together with any feedback that may influence plans moving forwards. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Delivery Plan </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Progress Reports </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">Timebox Review Record </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Change Requests </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ29  -->
+			<spm_question>Identify the missing words in the following sentence.  An organization amenable to incremental delivery of solutions [?] will benefit from early return on investment. </spm_question>
+			<spm_objectives>
+				<spm_association>LP0103.1 </spm_association>
+				<spm_reference>[] AgilePM ref 5.5 - Each Timebox should ideally deliver a complete potentially deployable increment of the solution, even though there may not be enough at that point to physically deploy it. The sooner a solution is deployed, the sooner a return can be measured. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">at lowest possible cost </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">into live use </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">for testing in deployment </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">with minimum effort </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ30  -->
+			<spm_question>What is the purpose of the Evolutionary Development phase? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0204 </spm_association>
+				<spm_reference>[] AgilePM ref 6.5 - The purpose of the Evolutionary Development phase is to evolve the solution. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">Converge over time on an accurate solution that meets a business need </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Establish whether the project appears cost-effective </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Establish how development and delivery of the solution will be managed </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Bring a baseline of the solution into operational use </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ32  -->
+			<spm_question>What are the names of the two styles of Timeboxes? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0103 </spm_association>
+				<spm_reference>[] AgilePM ref 11.2 - DSDM recognizes two styles of Timebox – a DSDM structured Timebox and a free format Timebox. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Investigation and Development </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Structured and Free format </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Exploration and Engineering </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Iterative and Increment </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ37  -->
+			<spm_question>Which of the following elements make up common sense?  1. Sound judgment.  2. Practical judgment.  3. Normal native intelligence.  4. Specialized knowledge</spm_question>
+			<spm_objectives>
+				<spm_association>PC0101 </spm_association>
+				<spm_reference>[] AgilePM ref 3.1 - Common sense sound practical judgment independent of specialized knowledge or training; normal native intelligence. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="1">1,2,3 </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">2,3,4 </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">1,2,4 </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">1,3,4 </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+	</spm_questionbank>
+	</test>
+
+
+	
+	<test>	
+	<spm_test_name>Techniques and Practices</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>		
+		
+		<spm_questions><!-- JGQ7 -->
+			<spm_question>Which role ensures that the solution/technical roles work in a consistent way?</spm_question>
+			<spm_objectives>
+				<spm_association>PR0203</spm_association>
+				<spm_reference>[] AgilePM ref 7.3.3 - The Technical Co-ordinator ensures consistency and that the project is technically coherent.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-10-A" ans="0">Team Leader</spm_option>
+				<spm_option id="AP2-IN-10-B" ans="0">Project Manager</spm_option>
+				<spm_option id="AP2-IN-10-C" ans="1">Technical coordinator</spm_option>
+				<spm_option id="AP2-IN-10-D" ans="0">Solution Developer</spm_option>
+			</spm_options>
+		</spm_questions>				
+					
+		<spm_questions><!-- JGQ22 -->
+			<spm_question>  'A fixed period of time, at the end of which an objective has been met' is a definition of which technique?</spm_question>
+			<spm_objectives>
+				<spm_association>TE0209</spm_association>
+				<spm_reference>[] AgilePM ref 11.1 - This is the definition of a Timebox the objective of which is usually the completion of one or more deliverables making up a Solution Increment.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-CO-7-A" ans="1">Timeboxing</spm_option>
+				<spm_option id="AP2-CO-7-B" ans="0">Facilitated Workshops</spm_option>
+				<spm_option id="AP2-CO-7-C" ans="0">Modelling</spm_option>
+				<spm_option id="AP2-CO-7-D" ans="0">Daily Stand-Ups</spm_option>
+			</spm_options>
+		</spm_questions>	
+				
+		<spm_questions><!-- JGQ23 -->
+			<spm_question>Which is NOT a specific technique defined in the AgilePM approach?</spm_question>
+			<spm_objectives>
+				<spm_association>TE0304</spm_association>
+				<spm_reference>[] AgilePM ref 12.1 - This is a technique used in the PRINCE2® method not specifically documented in the Agile approach but this does not mean that it can’t be used, where appropriate..</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-CO-8-A" ans="0">Iterative Development</spm_option>
+				<spm_option id="AP2-CO-8-B" ans="0">Facilitated Workshops</spm_option>
+				<spm_option id="AP2-CO-8-C" ans="1">Quality Review</spm_option>
+				<spm_option id="AP2-CO-8-D" ans="0">Modelling</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ25 -->
+			<spm_question>The Project Manager attends the Daily Stand-Up...</spm_question>
+			<spm_objectives>
+				<spm_association>PC0403</spm_association>
+				<spm_reference>[] AgilePM ref 13.2.6 - The Project Manager attends in order to observe progress and pick up escalated issues</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-CO-11-A" ans="0">..Every day</spm_option>
+				<spm_option id="AP2-CO-11-B" ans="0">..Once a week</spm_option>
+				<spm_option id="AP2-CO-11-C" ans="0">..Never</spm_option>
+				<spm_option id="AP2-CO-11-D" ans="1">..When appropriate</spm_option>
+			</spm_options>
+		</spm_questions>		
+
+		<spm_questions><!-- JGQ26 -->
+			<spm_question>The Timebox plan is created by the...?</spm_question>
+			<spm_objectives>
+				<spm_association>LP0213</spm_association>
+				<spm_reference>[] AgilePM ref 8.2.11 - Created by the Solution Development Team</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-CO-20-A" ans="1">Solution Development Team</spm_option>
+				<spm_option id="AP2-CO-20-B" ans="0">Project Manager</spm_option>
+				<spm_option id="AP2-CO-20-C" ans="0">Technical Co-Ordinator</spm_option>
+				<spm_option id="AP2-CO-20-D" ans="0">Only the Solution Developer</spm_option>
+			</spm_options>
+		</spm_questions>
+							
+		<spm_questions><!-- JGQ27 -->
+			<spm_question>It is recommended that 60% to 80% of Timebox effort should be concentrated on...?</spm_question>
+			<spm_objectives>
+				<spm_association>TE0207</spm_association>
+				<spm_reference>[] AgilePM ref 11.2.1 - Refinement is where work on the solution is focussed in line with agreed MoSCoW priorities</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-CO-21-A" ans="0">Investigation </spm_option>
+				<spm_option id="AP2-CO-21-B" ans="0">Kick Off</spm_option>
+				<spm_option id="AP2-CO-21-C" ans="0">Consolidation </spm_option>
+				<spm_option id="AP2-CO-21-D" ans="1">Refinement</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ28 -->
+			<spm_question>Which is NOT true regarding MoSCoW prioritisation?</spm_question>
+			<spm_objectives>
+				<spm_association>TE0207</spm_association>
+				<spm_reference>[] AgilePM ref 11.2.1 - A Must Have is guaranteed to be delivered in the overall project;  Agile guarantees the Minimum Usable SubseT, which means a Must Have must be delivered</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-CO-23-A" ans="0">A Could have that is unsatisfied in an increment may be subsequently demoted to a Wont Have </spm_option>
+				<spm_option id="AP2-CO-23-B" ans="0">A Could have that is unsatisfied in an increment may be subsequently promoted to a Must Have for the next increment</spm_option>
+				<spm_option id="AP2-CO-23-C" ans="1">A Must have may never be delivered in the overall project</spm_option>
+				<spm_option id="AP2-CO-23-D" ans="0">A Must Have for the Project as a whole may not be a Must Have in the first Increment</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- JGQ30 -->
+			<spm_question>Which is one of the ways that DSDM deals with problems?</spm_question>
+			<spm_objectives>
+				<spm_association>TE0202</spm_association>
+				<spm_reference>[] AgilePM ref 10.2.3 - This is in line with the use of the MoSCoW technique where Could Haves and Should Haves represent contingency.</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-AC-7-A" ans="0">Adjust Quality </spm_option>
+				<spm_option id="AP2-AC-7-B" ans="0">Add extra resources</spm_option>
+				<spm_option id="AP2-AC-7-C" ans="0">Negotiate extra time for the Timebox</spm_option>
+				<spm_option id="AP2-AC-7-D" ans="1">Drop the least important feature from the Timebox</spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ5  -->
+			<spm_question>In a DSDM project, what does the ‘W’ in ‘MoSCoW’ stand for? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0101 </spm_association>
+				<spm_reference>[] AgilePM ref 10.1 - MoSCoW is a prioritisation technique for helping to understand and manage priorities. The letters stand for (M)ust Have, (S)hould Have, (C)ould have, (W)on’t Have this time. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Want this </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Won’t have this time </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Would have </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Wish list </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ6  -->
+			<spm_question>In a structured Timebox when does the Solution Development Team seek to understand the Timebox objectives and accept them as realistic? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0207 </spm_association>
+				<spm_reference>[] AgilePM ref 11.2.1 - KickOff is a short session for the Solution Development Team to understand the Timebox objectives and accept them as realistic. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Investigation </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">KickOff </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Consolidation </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Refinement </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ22  -->
+			<spm_question>Under the DSDM MoSCoW rule, which definition describes the Must Have requirement? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0202 </spm_association>
+				<spm_reference>[] AgilePM ref 10.2.1 - This is a Must Have as the solution cannot be delivered without it. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Important but not vital </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Unsafe without it </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Painful to leave out </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">May need some kind of workaround </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ28  -->
+			<spm_question>At the Timebox level, what is used to ensure the transparency of process and progress? </spm_question>
+			<spm_objectives>
+				<spm_association>PC0202 </spm_association>
+				<spm_reference>[] AgilePM ref 9.4.2 - The combination of a Team Board and the Daily Standup makes visible the necessary elements of control at the level of the Solution Development Team. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Project Plan and Project Board </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Development Plan and Project Plan </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">Daily Standup and Team Board </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Facilitated Workshop and Team Leader </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ35  -->
+			<spm_question>How long should the Daily Stand-up take? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0209 </spm_association>
+				<spm_reference>[] AgilePM ref 11.3 - Each Daily Stand-up has a short and fixed duration, normally no longer than 15 minutes – two minutes per participant, plus two minutes is a good guide. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">As long as it takes </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Fifteen minutes per participant </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">No more than half an hour </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="1">Two minutes per participant, plus two minutes </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+		<spm_questions><!-- SPQ43  -->
+			<spm_question>What DSDM product identifies Timeboxes for the project? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0211.1 </spm_association>
+				<spm_reference>[] AgilePM ref 8.2.6 - This is a high-level schedule of Project Increments and, at least for the first/imminent Increment, Timeboxes that make up that Increment. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Prioritised Requirements List </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Development Approach Definition </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="1">Delivery Plan </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Management Approach Definition </spm_option>
+			</spm_options>
+		</spm_questions>		
+
+	</spm_questionbank>
+	</test>
+
+
+	
+	<test>	
+	<spm_test_name>Agile Control</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>		
+				
+		<spm_questions><!-- JGQ21 -->
+			<spm_question>‘To establish whether the product appears cost effective from a business perspective' is an objective of which phase?</spm_question>
+			<spm_objectives>
+				<spm_association>LP0202</spm_association>
+				<spm_reference>[] AgilePM ref 6.3 - This is an objective of the Feasibility phase</spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-PP-7-A" ans="0">Pre-Project</spm_option>
+				<spm_option id="AP2-PP-7-B" ans="0">Foundations</spm_option>
+				<spm_option id="AP2-PP-7-C" ans="1">Feasibility</spm_option>
+				<spm_option id="AP2-PP-7-D" ans="0">Deployment</spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+		<spm_questions><!-- SPQ42  -->
+			<spm_question>When using Iterative Development, what should each cycle begin and end with? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0204 </spm_association>
+				<spm_reference>[] AgilePM ref 12.3.1 - In most cases each cycle will start with a thought (consideration of what needs to be done) and finish with a Conversation (to review whether the outcome meets the need and to understand what further work is needed if this is not the case). To achieve this the cycle actually begins and ends with a conversation. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Complete solution </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Conversation </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Facilitated Workshop </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Timebox </spm_option>
+			</spm_options>
+		</spm_questions>	
+		
+	</spm_questionbank>
+	</test>
+	
+	<test>	
+	<spm_test_name>Agile Planning</spm_test_name>
+	<spm_test_type>syllabus</spm_test_type>
+	<spm_test_timeout>-1</spm_test_timeout>
+	<spm_questionbank>		
+		
+		<spm_questions><!-- SPQ9  -->
+			<spm_question>When, ideally, is the first instance that a solution should be fully tested and potentially deployable? </spm_question>
+			<spm_objectives>
+				<spm_association>LP0105 </spm_association>
+				<spm_reference>[] AgilePM ref 9.3.1 - Ideally the solution will be fully tested at the end of the Timebox, although it is acknowledged that this may not be achievable in all circumstances. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">At the Review stage of Deployment </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">At the end of a Timebox </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">On Deployment </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">After Deployment </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ19  -->
+			<spm_question>How often should a Timebox Plan be updated? </spm_question>
+			<spm_objectives>
+				<spm_association>PC0203 </spm_association>
+				<spm_reference>[] AgilePM ref 9.2.2 - It is updated at least on a daily basis at the Daily Standups. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Hourly </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Daily </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Weekly </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Monthly </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ23  -->
+			<spm_question>Which statement about the detail of requirements is correct for DSDM? </spm_question>
+			<spm_objectives>
+				<spm_association>PC0107.1 </spm_association>
+				<spm_reference>[] AgilePM ref 4.6 - DSDM advocates first understanding the scope of the business problem to be solved and the proposed solution, but not in such detail that the project becomes paralysed by overly detailed analysis of requirements. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Detail emerges sooner rather than later </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Most detail emerges during Feasibility </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">DSDM teams strive to achieve full detail as early as possible </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="1">Detail is expected to emerge over time </spm_option>
+			</spm_options>
+		</spm_questions>		
+		
+		<spm_questions><!-- SPQ26  -->
+			<spm_question>In a free format Timebox, which activity is done during the Iterative Development step? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0208 </spm_association>
+				<spm_reference>[] AgilePM ref 11.2.2 - A free format Timebox is effective where formality and structure is not possible or helpful, but it is still important that reviews are scheduled during the body of free format Timebox. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Agree what work will be undertaken, agree priorities and accept the workload </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="1">Scheduled reviews of the work in progress </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">Formal acceptance of the Timebox deliverables </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="0">Workshop to learn from experience and to take action to improve future Timeboxes </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+		<spm_questions><!-- SPQ46  -->
+			<spm_question>What perspectives should be considered when ‘Modelling’? </spm_question>
+			<spm_objectives>
+				<spm_association>TE0206 </spm_association>
+				<spm_reference>[] AgilePM ref 12.2.2 - A coherent picture of a solution area can be gained by considering the perspectives of: what, where, when, how, who and why, and the relationship between them. </spm_reference>
+			</spm_objectives>
+			<spm_options>
+				<spm_option id="AP2-IN-11-A" ans="0">Senior management only </spm_option>
+				<spm_option id="AP2-IN-11-B" ans="0">Financial, social, physical and ethical </spm_option>
+				<spm_option id="AP2-IN-11-C" ans="0">How many, how often and at what cost </spm_option>
+				<spm_option id="AP2-IN-11-D" ans="1">What, where, when, how, who and why </spm_option>
+			</spm_options>
+		</spm_questions>
+		
+	</spm_questionbank>
+	</test>
+	
+</spm_testbank>
+</ftest>

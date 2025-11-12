@@ -1,0 +1,1144 @@
+﻿<?xml version="1.0"?>
+<ptest>
+<spm_testname>AgilePM Practitioner Exam - 2015 edition - AG2014-GB--AX02-V1.3 26Nov2015</spm_testname>
+<spm_testtype>Practitioner</spm_testtype>
+<spm_testtimeout>150</spm_testtimeout>
+<spm_passmark>50</spm_passmark>
+<spm_testbank>
+	<syllabus name="Techniques" no="1">
+		<parts>
+			<part name="A">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans="Correct [C]: After Kick-off (to decide products and Acceptance Criteria) and Investigation (to understand the scope of the work in a timebox), Refinement is where most of the development and testing work is done. (11.2.1)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Correct [B]: The aim of Investigation is to provide a firm foundation for the work to be carried out. This will entail confirming the detail of requirements before going into the development process. (11.2.1)"></option>
+						<option name="C" type="0"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Correct [B]: The aim of Investigation is to provide a firm foundation for the work to be carried out. This will entail confirming the detail of requirements. Acceptance criteria for the deliverables are agreed during Investigate. (11.2.1)"></option>
+						<option name="C" type="0"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct [A]: This is Kick Off, a short session for the Solution Development Team to understand the timebox objectives and accept them as realistic. (11.2.1)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+					</options>
+				</question>
+			</part>
+			<part name="B">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="A Incorrect: Facilitated Workshops are designed for participants to work together to achieve an agreed goal, whether that be solving a problem, building a plan, gathering requirements or making decisions. It is not a training session. (12.1.1)"></option>
+						<option name="B" type="1" data-ans="Correct: Workshop Facilitator should be trained, but also independent of the project. (12.1.3). "></option>
+						<option name="C" type="0" data-ans="Incorrect: The external marketing company is not the owner of the workshop. It is a team based approach to rich communication. (12.1.1)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Workshop Facilitator should be trained, but also independent of the project, which the Project Manager is not. (12.1.3)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: One of the factors found, in practice, to greatly improve the success of Facilitated Workshops is flexibility in the format but always with clearly defined objectives. (12.3.1)"></option>
+						<option name="B" type="0" data-ans="Incorrect: One of the factors found, in practice, to greatly improve the success of Facilitated Workshops is flexibility in the format but always with clearly defined objectives. The issue is to build consensus on the terms, not discuss any issues that arise. (12.3.1)"></option>
+						<option name="C" type="1" data-ans="Correct: A factor found to greatly improve the success of Facilitated Workshops is the thorough preparation by the Workshop Facilitator and participants before the Workshop starts. (12.1.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Facilitated Workshops are a process where a neutral facilitator, with no stake in the outcome of the workshop, enables a group to work together to achieve an agreed goal. As it is an independent process there is no requirement for the approach to the workshop to be approved by the Project Manager. (12.1.1)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: The Facilitator has no stake in the outcome of the workshop and no opinion on the content. (12.1.1)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The Project Manager may participate in the workshop and have an opinion, but is not a decision-maker. (12.1.1)"></option>
+						<option name="C" type="1" data-ans="Correct: Decisions and agreements that are not forced. If the Participants cannot agree on a point within the Workshop (perhaps due to lack of information or time), the Workshop Facilitator should recognise this outcome and elicit from the group the appropriate action to remedy the shortfall. (12.1.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Decisions and agreements that are not forced. If the Participants cannot agree on a point within the Workshop (perhaps due to lack of information or time), the Workshop Facilitator should recognise this outcome and elicit from the group the appropriate action to remedy the shortfall. (12.1.3)"></option>
+					</options>
+				</question>
+			</part>
+			<part name="C">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: The Solution Development Team are not empowered to re-prioritise Must Haves. Without these, the project fails. (17.4.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The Solution Developer is not empowered to unilaterally change or de-prioritise a requirement. This is a job for the whole team with, in this case, the Business Visionary having overall responsibility for priorities. In the case of a Must Have high level requirement the Business Sponsor must be involved. (17.4.3)"></option>
+						<option name="C" type="0.5" data-ans="Correct: The Project Manager should control the percentage of Must Haves – 60% should be the target. The issue that there is insufficient flexibility or contingency within the timebox (to allow de-scoping of requirements in order to complete the timebox on time) should be escalated. (17.3.1 / Figure 17)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The Business Analyst is not empowered unilaterally to de-prioritise a requirement. This is a job for the whole team and, in the case of a Must Have, for the Business Sponsor. (17.4.3)"></option>
+						<option name="E" type="0.5" data-ans="Correct: The Business Visionary has overall responsibility for the priorities in this case, and should define the Must Have requirements which represent the minimum usable subset and must be delivered. (17.4.3)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: It is not within the empowerment of a Business Advisor to de-scope a Must Have requirement. (17.4.3)"></option>
+						<option name="B" type="0.5" data-ans="Correct: It is possible that a High-level Must Have requirement may be broken down further to reveal a degree of Should Have or Could Have prioritisation of subrequirements. (17.8 Tips)"></option>
+						<option name="C" type="0" data-ans="Incorrect: Although the Project Manager works with the team to plan and co-ordinate product delivery, they cannot limit the work effort if there is a concern that these requirements cannot be delivered in 100% of the timebox. (17.4.3)"></option>
+						<option name="D" type="0.5" data-ans="Correct: The Project Manager or Business Analyst should challenge requirements if they are not obvious Must Haves. The prioritisation of requirements is what allows on-time and on-budget delivery. (17.8 Tips) "></option>
+						<option name="E" type="0" data-ans="Incorrect: If a true Must Have requirement is left out, the project will fail. (17.8 Tips)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0.5" data-ans="Correct: Facilitated workshops can be used throughout the DSDM lifecycle. They can be used to agree and prioritise requirements. (12.1.1 / 22.2.4)"></option>
+						<option name="B" type="0.5" data-ans="Correct: Cost and time cannot be adjusted in an Agile project. The use of overtime should not be planned for. (17.7)"></option>
+						<option name="C" type="0" data-ans="Incorrect: Never compromise quality is a principle of DSDM. To compromise any of the eight principles of DSDM undermines DSDM’s basic philosophy. (4.5)"></option>
+						<option name="D" type="0" data-ans="Incorrect: All the products developed in a Timebox should be tested during the refinement stage so that formal acceptance of all Timebox deliverables can be achieved at the Close-out stage. (17.8.2)"></option>
+						<option name="E" type="0" data-ans="Incorrect: The project should not be stopped unless it is not viable. Options to address the concern should be explored first. The Sponsor should recognise the risk to ontime and on-budget completion. (17.6)"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0.5" data-ans="It is a correct approach to consider starting initially with all requirements as Won’t Haves, and then justify why they need to be given a higher priority. (17.8 Tips)"></option>
+						<option name="B" type="0.5" data-ans="Correct: For each requirement proposed as a Must Have, ask: ‘What happens if this requirement is not met?’ If the answer is ‘Cancel the project’, then it really is a Must Have. (17.8 Tips)"></option>
+						<option name="C" type="0" data-ans="Incorrect: 60% Must Have requirements is a guide only. It is not up to the team to find unwanted requirements to make the numbers. (17.3.1)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The prioritisation of all requirements should be in line with the project objectives. 17.8 Tips)"></option>
+						<option name="E" type="0" data-ans="Incorrect: It is the Business Visionary's ultimate responsibility to ensure that priorities are correct. The Business Ambassadors and Technical Co-ordinator also have key roles in prioritising. (17.4.3)"></option>
+					</options>
+				</question>
+			</part>
+			<part name="D">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: In a Development Timebox, the point size is fine detail which would be elicited just before that element of the solution is created. (19.4.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The stock number is a definition of what is needed, which would be done in Foundations. (19.4.2)"></option>
+						<option name="C" type="0.5" data-ans="Correct: This is an overall objective of the project and should be defined at Feasibility. (19.4.1 / Scenario)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The selection of the sample photographs is a definition of what is needed, which would be done in Foundations. (19.4.2)"></option>
+						<option name="E" type="0.5" data-ans="Correct: This is an overall objective of the project which would be defined at Feasibility. (19.4.1 / Scenario)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0.5" data-ans="Correct: The requirement to search the catalogue is a definition of what is needed, which would be done in Foundations. (19.4.2)"></option>
+						<option name="B" type="0" data-ans="Incorrect: In a Development Timebox, the location of staples on each catalogue is fine detail which would be elicited just before that element of the solution is created. (19.4.3)"></option>
+						<option name="C" type="0.5" data-ans="Correct: This is a Foundations level requirement describing what is needed. (19.4.2)"></option>
+						<option name="D" type="0" data-ans="Incorrect: In a Development Timebox, how the photographs should be posed is fine detail which would be elicited just before that element of the solution is created. (19.4.3)"></option>
+						<option name="E" type="0" data-ans="Incorrect: In a Development Timebox, the provision of a photograph is a definition of how a requirement would be implemented. (19.4.3)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0.5" data-ans="Correct: In a Development Timebox, where a company logo is positioned is fine detail which would be elicited just before that element of the solution is created. (19.4.3)"></option>
+						<option name="B" type="0.5" data-ans="Correct: In a Development Timebox, the weight of the paper is fine detail which would be elicited just before that element of the solution is created. (19.4.3)"></option>
+						<option name="C" type="0" data-ans="Incorrect: This is an overall objective of the project and would be defined at Feasibility. (19.4.1 / Scenario)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The requirement for a pictorial representation is a definition of what is needed, which would be done in Foundations. How it is achieved, i.e. photograph or drawing, would be refined later. (19.4.2)"></option>
+						<option name="E" type="0" data-ans="Incorrect: This is an overall objective of the project and would be defined at Feasibility. (19.4.1 / Scenario)"></option>
+					</options>
+				</question>
+			</part>
+			<part name="E">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="1" data-ans="False: An Agile project sets its quality level at the outset. Quality is not a variable in an Agile project so the use of iterative development is not related. (4.5 / 12.3 / 12.5)
+False: Iterative development recognizes that most detail should emerge later rather than sooner, the work of Foundations should shape the project and act as a framework rather than be detailed and prescriptive. (13.7)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="True: Each execution of the iterative cycle yields a result successively closer to a desired outcome. Within the timebox itself the iterative development also has control in the Investigate, Refine, Consolidate stages. (12.3.3)
+True: Iterative development is done within a timebox and uses Investigate, Refine, Consolidate to converge on the accurate solution. Consolidation ends with review, so it is part of the iterative cycle. (11.2.1/ 11.2.2) The answer is A, because the iterative development allows the team to evolve from a high-level idea to a delivered product. (11.2.2)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>						
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="False: The team will agree the acceptance criteria for each product to be delivered at the development timebox Investigation step. The Delivery Plan is a high-level schedule of Increments for the projects and rarely deals with low level detail. (11.2.1 / 16.7 1)
+True: The Delivery Plan should clearly describe a schedule of Project Increments and, for the first/imminent Increment, a schedule of properly resourced and appropriately focused TImeboxes' (13.3)."></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="1" data-ans="False: There is no fixed number of timeboxes which would be appropriate. The optimum length is between two and four weeks. Investigate, Refine and Consolidate are not different timeboxes. They are steps within a timebox. (11.1)
+False: Iterative development is the practice used to evolve a solution from a high level concept to something with business value. Iteration is provided through an informal cycle of thought, action and conversation. A timebox is controlled by a cycle of three main steps - Investigate, Refine, Consolidate - with review points between them. (12.3.1/ 11.2.1)"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="False: The taking and re-taking of photographs would be carried out in the Refinement step of a Timebox. Any final photographs which needed to be re-taken following the Refinement review could be done during the Consolidation step. (11.2.1)
+True: The iterative cycle typically requires the team to consider what needs to be achieved (thought), evolve the solution (action) and discuss whether the solution is right or further iteration is required (conversation) (12.3.1)"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>	
+				<question no="6">
+					<spm_objectives>
+						<spm_association>TE</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="True: The timeboxed approach means that there are frequent prototypes of the product shown to the customer. The aim of Refinement is to complete as much of the development work as possible. (12.2.1 / 17.8.2.1)
+True: The Evolving Solution evolves through the Iterative Development process. The answer is A, because the delivery of sample designs are part of the Evolving Solution being developed iteratively. (12.3.1)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>				
+			</part>
+		</parts>
+	</syllabus>
+	<syllabus name="People and Roles" no="2">
+		<parts>
+			<part name="A">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0.5" data-ans="Correct: This aligns with the following Business Sponsor responsibility – Ensuring ongoing viability of the project in line with the Business Case. (14.4.1)"></option>
+						<option name="B" type="0" data-ans="Incorrect: Planning all aspects of product delivery at task level is the role of the Solution Development Team. (16.12.1)"></option>
+						<option name="C" type="0" data-ans="Incorrect: The Business Visionary is responsible for defining and approving changes to the high-level requirements in the Prioritised Requirements List. (14.5.1)"></option>
+						<option name="D" type="0.5" data-ans="Correct: This aligns with the following Business Sponsor responsibility – Ensuring that funds and other resources are made available as needed. (14.4.1)"></option>
+						<option name="E" type="0" data-ans="Incorrect: The Workshop Facilitator is responsible for organizing and facilitating the workshop process. (14.14)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: Planning all aspects of product delivery at task level is the role of the Solution Development Team. (16.12.1)"></option>
+						<option name="B" type="0.5" data-ans="Correct: During Evolutionary Development, as a minimum of engagement, the Project Manager should encourage the Business Visionary to attend and actively participate in the End of Timebox reviews and subsequent project-level reprioritisation and re-planning activities. (14.16.2)"></option>
+						<option name="C" type="0" data-ans="Incorrect: This aligns with the following Technical Co-ordinator responsibility – Agreeing and controlling the technical architecture. (14.6.1)"></option>
+						<option name="D" type="0.5" data-ans="Correct: The Project Manager is responsible for collaborating with the Solution Development Team and other appropriate stakeholders to create and agree the Delivery Plan. (Scenario / 14.3.1)"></option>
+						<option name="E" type="0" data-ans="Incorrect: The Workshop Facilitator is responsible for organizing and facilitating the workshop process. (14.14)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0.5" data-ans="Correct: This aligns with the following Technical Co-ordinator responsibility – Agreeing and controlling the technical architecture. (14.6.1)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The Business Sponsor is responsible for ensuring that funds and other resources are made available as needed. (14.4.1)"></option>
+						<option name="C" type="0.5" data-ans="Correct: This aligns with the following Technical Co-ordinator responsibility – Ensuring adherence to appropriate standards of technical best practice. (14.6.1)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Planning at task level is the role of the Solution Development Team not just the Technical Co-ordinator. (16.12.1)"></option>
+						<option name="E" type="0" data-ans="Incorrect: The Business Visionary is responsible for defining and approving changes to, the high-level requirements in the Prioritised Requirements list. (14.5.1)"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: The Workshop Facilitator is responsible for agreeing the scope of the workshop with the workshop owner (the person who wants the workshop to take place), not specifying it. (14.14.1)"></option>
+						<option name="B" type="0" data-ans="Incorrect: Planning at task level is the role of the Solution Development Team, not the Workshop Facilitator. (16.12.1)"></option>
+						<option name="C" type="0.5" data-ans="Correct: The Workshop Facilitator is responsible for organizing and facilitating the workshop process. (14.14.1)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The Business Sponsor is responsible for ensuring the ongoing viability of the project in line with the Business Case. (14.4.1)"></option>
+						<option name="E" type="0.5" data-ans="Correct: The Workshop Facilitator is responsible for organizing and facilitating the workshop process. (14.14.1)"></option>
+					</options>
+				</question>
+			</part>
+			<part name="B">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct [A]: The Technical Coordinator is a Project-level role. As the project’s technical authority, the Technical Coordinator ensures that the solution/technical roles work in a consistent way, that the project is technically coherent and that it meets the desired technical standards. (14.2.2.1/14.6)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Correct [B]: The Business Ambassador is a Solution Development Team Role, providingthe day-to-day detail of the requirements during timeboxed development. (14.9)"></option>
+						<option name="C" type="0"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct [A]: The Business Sponsor provides the overall strategic direction and controls the funding/budget for the project. The Project Manager ensures that project funds are used effectively to create the envisaged solution within the agreed timescale. These are Project-level roles. (14.2.2.1)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans="Correct [C]: The supporting roles (Business Advisors, Technical Advisors, Workshop Facilitator and DSDM Coach) provide assistance and guidance to the project on an ad hoc basis throughout the lifecycle. They advise the Solution Development Team in areas where specialist expertise is needed (e.g. legal and compliance matters, technical knowledge, business-specific rules and regulations). (14.2.2.3)"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Correct [B]: The Business Ambassador is a Solution Development role. During the Evolutionary Development phase of the project, the Business Ambassador is the main decision-maker on behalf of the business. (14.9)"></option>
+						<option name="C" type="0"></option>
+					</options>
+				</question>
+			</part>
+			
+			<part name="C">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct: An Agile Project Management team has to be empowered to make decisions if the pace of development and delivery is to be kept high. Regularly telephoning your line manager is not empowerment and slows down the pace of the delivery. (14.1)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The project level roles, including the Project Manager should ensure the freedom of the Solution Development Team to do the job, getting to an endpoint by its own means. (14.2.2.1)"></option>
+						<option name="C" type="0" data-ans="Incorrect: Fit for Purpose is defined by the Acceptance Criteria early in the project. The feedback should be from the Business Ambassador rather than their line manager outside of the Solution Development Team. (13.5 / 14.9.1)"></option>
+						<option name="D" type="0" data-ans="Incorrect: In line with the DSDM concept of empowerment, the Project Manager is expected to leave the detailed planning of the actual delivery of the product to the members of the Solution Development Team. (14.3)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: In an Agile project, the Timebox deadline is sacrosanct. It would be against Principle 2 (Deliver on Time) if the project duration was associated with renegotiating Timebox end dates. (10.3 / 13.3 / 21.3.4)"></option>
+						<option name="B" type="1" data-ans="Correct: In an Agile project, the Timebox deadline is sacrosanct, often because it is set by the business need. Features are the key control that can be adjusted. (10.3 / 13.3 / 21.3.4)"></option>
+						<option name="C" type="0" data-ans="Incorrect: In an Agile project, the Timebox deadline is sacrosanct. It would be against Principle 2 (Deliver on Time) if Must Have requirements allowed Timebox end dates to be renegotiated. (10.3 / 13.3 / 21.3.4)"></option>
+						<option name="D" type="0" data-ans="Incorrect: In an Agile project, the Timebox deadline is sacrosanct. It would be against Principle 2 (Deliver on Time) if requirements associated with an external company allowed Timebox end dates to be renegotiated. (10.3 / 13.3 / 21.3.4)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: Daily Stand-ups run by teleconference can be used if a single work location is not possible. This negates the comment that only members of the Agile team who are physically present may attend a Daily Stand-up. (18.2.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The Daily Stand-up is normally facilitated by the Team Leader. The Business Ambassador is an active participant to all Daily Stand-ups. (11.3)"></option>						
+						<option name="C" type="1" data-ans="Correct: Daily Stand-ups run by teleconference can be just as effective as those held in a single work location if those involved cannot physically get together. (18.2.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The view of the Business Ambassador is taken into account throughout the development process, not just during occasional telephone calls. The Business Ambassador is responsible for providing day-to-day assurance that the solution is evolving correctly. (14.9.1)"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct: Project Scope (goals and high- level results), time, budget, high-level resources, other management constraints are project-level role decisions. (14.2.2.1 / 14.2.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: Project Scope (goals and high- level results), time, budget, high-level resources, other management constraints are project-level role decisions. (14.2.2.1 / 14.2.3)"></option>
+						<option name="C" type="0" data-ans="Incorrect: Project Scope (goals and high- level results), time, budget, high-level resources, other management constraints are project-level role decisions. The Business Ambassador may be empowered to make decisions, but this is still a project level decision. (14.2.2.1 / 14.2.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Project Scope (goals and high- level results), time, budget, high-level resources, other management constraints are project-level role decisions. This may be a small project, but this is still a project-level role decision. (14.2.2.1 / 14.2.3)"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: In a traditionally managed project, the Project Manager has a detailed plan against which to monitor and control activities. In an Agile project, there are typically more activities going on in parallel. Burn down charts, task boards, planning boards and storyboards are among the possibilities used on a Team Board. (Glossary)"></option>
+						<option name="B" type="0" data-ans="Incorrect: Burn Down charts and Burn Up charts (see Glossary) are useful within an Agile project for visibly demonstrating the current status and the projected outcome. Burn down charts, task boards, planning boards and storyboards are among the possibilities used on a Team Board. (Glossary)"></option>
+						<option name="C" type="0" data-ans="Incorrect: In an Agile project, there are typically many activities going on in parallel. Burn Down charts do not show the completion of tasks, they show the number of features/ requirements (user stories) remaining and team velocity. They are useful for showing team progress. (Glossary)"></option>
+						<option name="D" type="1" data-ans="Correct: Burn Down charts and Burn Up charts (see Glossary) are useful for visibly demonstrating the current status and highlight whether the current plan looks achievable or whether it may be necessary to de-scope features. They are often used on Team Boards. (Glossary)"></option>
+					</options>
+				</question>	
+				<question no="6">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: It may not be viable to have a dedicated team full-time to the project. Planning becomes even more important where the whole Solution Development Team are not co-located or working on the project full time. (24.2.1 Statement 9)"></option>
+						<option name="B" type="0" data-ans="Incorrect: Teams should be co-located for the duration of the Evolutionary Development Timeboxes but where this is not possible clear working arrangements need to be put in place to minimise the impact. (18.2.2)"></option>
+						<option name="C" type="1" data-ans="Correct: Planning becomes even more important where the whole Solution Development team are not co-located or working on the project full time. Where resources are only available part-time, it is recommended to try to secure formal agreements as to how many hours per day, per week or per Timebox they will spend on the project, ideally with specific times to allow people to work collaboratively. (24.2.1 Statement 9)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Being scheduled to work together at a certain time means that they are available but does not necessarily mean that the team will be sufficiently empowered to guide the day-to-day evolution of the solution. Empowerment is acting within agreed boundaries of decision-making. (5.3.1)"></option>
+					</options>
+				</question>				
+			</part>
+			<part name="D">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="False: Liaising with external companies is not a responsibility of the Business Sponsor outlined or implied in the Agile Project Management approach. (14.4)
+True: The Business Sponsor is responsible for ensuring that funds and other resources are made available as needed. (14.4.1)"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="1" data-ans="False: Approving changes to the Prioritised Requirements List is not a responsibility of the Business Ambassador outlined or implied in the Agile Project Management approach. (14.9.1 / 14.5.1)
+False: Approving changes to the high-level requirements in the Prioritised Requirements List is the role of the Business Visionary. (14.5.1)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans=">3 True: Advising on and co-ordinating each Solution Development Team's technical activities is the role of the Technical Co-ordinator, and this can include external suppliers. (14.6.1)
+True: Resolving technical differences between technical team members is the role of the Technical Co-ordinator. The answer is A, because the Technical Coordinator should be involved in resolving the difference in approaches to solving the gramophone technical issues. (14.6.1)"></option>
+						<option name="B" type="0"></option>						
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="True: Ensuring collaboration across stakeholder business areas is the role of the Business Visionary. The Project Manager is responsible for managing risks and issues and escalating these to senior business or technical roles as appropriate. (14.5.1 / 14.3.1)
+True: Handling problems escalated from the Solution Development Teams is the role of the Project Manager. The answer is A, because the Project Manager is contacting the Business Visionary as a part of handling the issue. (14.3.1)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>PR</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="True: The Solution Developer collaborates with the other Solution Development Team roles to interpret business requirements and translate them into a Solution Increment that meets functional and non-functional needs of the business as a whole. (7.3.8).
+True: The Solution Developer interprets business requirements and translates them into a deployable solution. The answer is A, because the Solution Developer is translating the Business Ambassador's needs into a Deployable Solution. (7.3.8)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>	
+					
+			</part>
+		</parts>
+	</syllabus>			
+	<syllabus name="Planning and Control" no="3">
+		<parts>
+			<part name="A">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: These risks do not need escalation. Provided the team is confident that it can deliver a solution within tolerance, it can make any decisions it needs to concerning the detail of what will be done and how. Only exceptions to the Must and Should Have requirements and compromises to quality should be escalated to the project-level roles for guidance. (9.4.4)"></option>
+						<option name="B" type="0" data-ans="Incorrect: DSDM’s approach to managing the project fixes time, cost and quality at the end of the Foundations phase, while contingency is managed by varying the features to be delivered. More resources is not a suitable option. (3.2)"></option>
+						<option name="C" type="0" data-ans="Incorrect: Whilst the one role may be shared by two or more people, the addition of a new Sponsor just to mitigate a risk is not an appropriate solution. The involvement of Amanda in reviews and use of a DSDM coach to ensure that Les Rowlands can fulfil his role would be appropriate action. (24.2.1,2,11)"></option>
+						<option name="D" type="1" data-ans="Correct: The feedback from the end of Investigation Timebox review when the risks are reviewed, is captured as a Timebox Review Record (which can be as simple as a brief email, confirming what has been agreed). (17.8.2.1)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: Success is achieved by distributing business effort throughout the project. Additional testing would not mitigate the risk identified. (Table 23.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The amount of effort spent testing elements of the solution will not reduce the risk that the Business Ambassador may miss session during the Timebox. Testing should be fully integrated into the iterative and incremental development approach. (5.5)"></option>
+						<option name="C" type="1" data-ans="Correct: The structure within a DSDM structured Timebox is very useful to allow forward planning of the times when the Business Ambassador will attend specific planning, feedback and review sessions. Where a Business Ambassador is trying to manage a very busy diary, this can be a great help. (24.2.1 -8 / 17.8.2 / Table 23.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Time boxes may be shortened to allow for limited availability but this would not occur once the timebox had started as managing on-time/on-target delivery at the lowest level during Evolutionary Development is how on-time and on-target delivery at the project level is assured. (17.8.1)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct: It may be appropriate to transfer responsibilities, such as ‘owning the wider implications of any business change from an organisational and business process perspective’ to a more senior role. (24.2.1 – Statement 11)"></option>
+						<option name="B" type="0" data-ans="Incorrect: In certain circumstances it may be sensible to transfer one or more responsibilities from one role to another to help achieve a good fit of responsibilities to a given individual, but the Business Analyst is not a role which would take wider business decisions. (24.2.1 – Statement 11)"></option>
+						<option name="C" type="0" data-ans="Incorrect: Helping the Business Ambassador to understand their role would not provide the seniority required to make specific business decisions. (24.2.1 – Statement 11)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Whilst resources should only be changed at the end of an increment, this is not a means of mitigating the risk that the Business Ambassador may be too junior to make company-wide decisions. (Table 23.3)"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: The solution is defined in detail during the development timeboxes so there is no detailed signed-off specification to sign-off, as this will evolve throughout the process. (Table 23.3)"></option>
+						<option name="B" type="1" data-ans="Correct: If the business accepts the evolving solution incrementally, achieving final signoff will only be a final step in a gradual process. (Table 23.3)"></option>
+						<option name="C" type="0" data-ans="Incorrect: Even though the principle of Deliver on Time exists with the use of timeboxes, this must be achieved with continual business communication and agreement. (Table 23.3 / 4.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: Time is fixed; it is the Could Have requirements that provide the primary contingency. This is not a method for mitigating an unwillingness to sign-off the final solution. (Table 23.3)"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: The whole team should be made aware of the key risks, but the individual risks will have named owners, often people performing roles at the project level. (23.1 / 23.5 Top Tips)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The Business Visionary, not the Business Analyst, is responsible for owning business-based risks. (14.5.1)"></option>
+						<option name="C" type="1" data-ans="Correct: At the end of a Timebox, the ownership of new and outstanding risks should be taken back to the project-level roles. Ultimately the risk of the project not delivering as expected is ‘owned’ by the business, since effective operation of their business depends on successful delivery. The Business Visionary is responsible for owning business-based risk. (23.5 Top Tips / 23.1 / 14.5.1)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The Project Manager is accountable for maximum effectiveness of risk management. Ultimately the risk of the project not delivering as expected is ‘owned’ by the business, since effective operation of their business depends on successful delivery. (23.1)"></option>
+					</options>
+				</question>
+			</part>
+			<part name="B">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Correct [B]: Delivery Planning – Each of the requirements are expanded and the overall MoSCoW priorities are agreed. (21.3.2/21.3.3)"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans="Correct [C]: Deployment Planning - The Deployment Plan includes everything needed to move the Solution into the operational environment. This may include business process change information and training. (21.3.5)"></option>
+						<option name="D" type="0"></option>
+						
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Correct [B]: Delivery Planning – The Delivery Plan will outline the number and likely length of the Development Timeboxes. (21.3.2/21.3.3)"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="Correct [D]: The Timebox Plan details the deliverables of that Timebox, along with the activities to produce those deliverables and the resources to do the work (16.12.1). Testing should be considered part of the Iterative Development process with testing activity as fully embedded as it can be within the same Timebox as the development activity (9.3.1)."></option>
+						
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans=" Correct [C]: Deployment Planning - The Deployment Plan includes everything needed to move the Solution into the operational environment. This may include business process change information and training. (21.3.5)"></option>
+						<option name="D" type="0"></option>
+						
+					</options>
+				</question>
+			</part>
+			<part name="C">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Correct [B]: Foundations: This is a top-down estimate. The purpose of estimating at this stage is to revisit the Business Case and to produce the Delivery Plan, with enough detail to give confidence in the delivery approach. (20.5.2)"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Correct [B]: Foundations: This estimate does not have detailed planning of the internal work of the timeboxes and would be made by the Solution Development Team at Foundations, when they put together the Delivery plan. (20.5.2)"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans="Correct [C]: Evolutionary Development: The estimate is for an item to be delivered within the coming Development Timebox. (20.5.3)"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans="Correct [C]: Evolutionary Development: The estimate is from an expert for an item to be delivered within the coming Development Timebox. (20.5.3)"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct [A]: Feasibility: This is a top-down estimate made on a high-level requirement, with a high degree of uncertainty. (20.5.1)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+			</part>
+			<part name="D">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="False: If the team can resolve an issue themselves there is no need to escalate to the Project Manager to solve an issue. (9.4.4/17.10)
+True: The key responsibility for the Project Manager is to deal with any issues that can affect the timely delivery of products (13.3 / 14.3.1)"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="1" data-ans="False: The Solution Development Team is empowered to make day-to-day decisions about features and has the power to de-scope Could Haves. (9.4.4)
+False: Omission of features, provided the Minimum Usable Subset is still intact, is not seen as lowering the quality. (22.2.1)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="True: The business users and solution developers collaborate to produce a solution that both meets the business need and is maintainable. Therefore the Solution Development Team can decide which approach is appropriate, whether it is a business or technical solution. (9.4.4/17.10)
+True: The role of the Business Ambassador is to provide a business perspective on all decisions. As the solution had a business element and the Business Ambassador is part of the Solution Development Team the answer is A. (14.9)"></option>
+						<option name="B" type="0"></option>						
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="False: Time, resources and cost are fixed to ensure an acceptable amount of business benefit so more funding should not be requested. (9.4.4 / 3.2)
+True: The Project Manager should set objectives for the teams but leave them to get on with it unless the controls exceed any tolerances that may have been set by the project’s governing body. (9.4.4 / 14.3)"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>PC</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="True: Escalation of issues, if it does occur, will require swift and decisive action. When issues are raised early, solutions can be found while there are still options available. The later an issue is raised, the less choice is open to them. (14.16.1 / 14.16.4 / 18.3.6)
+True: It is important that all members of the Solution Development Team are appropriately empowered to handle any change that falls within the agreed scope of the Timebox objectives, without the need for a formal change control process that reaches beyond the team. The answer is B (17.10)"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>	
+					
+			</part>
+		</parts>
+	</syllabus>			
+	<syllabus name="Lifecycle and Products" no="4">
+		<parts>
+			<part name="A">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="Correct [D]: The Timebox Review Record documents where the Business and Technical Advisors confirm regulatory and other standards have been met for the work undertaken in a Timebox. (16.13.2)"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="1" data-ans="Correct [E]: The Project Review Report records feedback, learning points and business benefits related to the ongoing project or the life of the delivered Solution, in terms of future plans for development etc. (16.14.1 and Agile PM Top Tips)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans="Correct [C]: The Timebox Plan elaborates on the objectives provided for that Development Timebox and details the deliverables of that Timebox, along with the activities to produce those deliverables and the resources to do the work (16.12.1)."></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct [A]: The Management Approach Definition records how stakeholders will be engaged in the project. (16.8.1)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="1" data-ans="Correct [E]: The Project Review Report records the business benefits that should now accrue through the proper use of the solution delivered by the project up to this point. (16.14.1)"></option>
+						
+					</options>
+				</question>
+			</part>
+			<part name="B">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0.5" data-ans="Correct: During Feasibility an Outline Business Case is prepared, to include the scope and objectives of the proposed project. (19.4.1 / 20.5.1)"></option>
+						<option name="B" type="0.5" data-ans="Correct: An objective of Feasibility is to identify the benefits likely to arise from the delivery of the proposed solution. Baselines of the Business Case are typically created first as an outline by the end of Feasibility then as a basis for approval of development by the end of Foundations. (19.4.1 / 20.5.1)"></option>
+						<option name="C" type="0" data-ans="Incorrect: This will happen during Evolutionary Development, when refining the products required to successfully operate and support the solution in live operation. (15.3.4)"></option>
+						<option name="D" type="0" data-ans="Incorrect: This will happen during Deployment, when the end-products of the project are to be distributed outside of the organisation creating it. (15.3.5)"></option>
+						<option name="E" type="0" data-ans="Incorrect: It is an objective of Pre-Project to identify a Business Sponsor and Business Visionary. These roles are actively engaged during the Feasibility phase, therefore they are appointed much earlier in the Pre-Project phase. (14.16.2/15.3.2)"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: It is an objective of Pre-Project to identify a Business Sponsor and Business Visionary. These roles are actively engaged during the Feasibility phase, therefore they are appointed much earlier in the Pre-Project phase. (14.16.2/15.3.2)"></option>
+						<option name="B" type="0.5" data-ans="Correct: It is an objective of Foundations to baseline the high-level requirements for the project and describe their priority and relevance to the business need. (19.4.2 / 20.5.2)"></option>
+						<option name="C" type="0.5" data-ans="Correct: Correct: It is an objective of Foundations to describe the strategies for delivering all aspects of the solutions. (19.4.2 / 20.5.2)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The final specification will not be known until the solution has been approved for deployment. (23.3)"></option>
+						<option name="E" type="0" data-ans="Incorrect: It is during Deployment that the deployed solution is assessed for its ability to enable the delivery of the intended elements of business benefits. (15.3.5/21.3.5)"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0.5" data-ans="Correct: This is an objective of Evolutionary Development, to address the non-functional requirements, and refine the Evolving Solution to meet the agreed acceptance criteria. (19.4.3 / 20.5.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: The final specification will not be known until the solution has been approved for deployment. (Table 23.3)"></option>
+						<option name="C" type="0.5" data-ans="Correct: This will happen during Evolutionary Development, when refining the products required to successfully operate and support the solution in live operation. (19.4.3 / 20.5.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: It is during Post-Project that the benefits achieved through use of the Deployed Solution are assessed. This should be planned during Deployment. (21.3.6)"></option>
+						<option name="E" type="0" data-ans="Incorrect: Training for end users, support and maintenance staff should be carried out during Deployment. (21.3.3)"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: It is a pre-condition of Evolutionary Development that the environments are in place and adequately set up to support the development of the solution. (15.3.4)"></option>
+						<option name="B" type="0" data-ans="Incorrect: It is Post-Project, after the launch, that the benefits achieved through use of the Deployed Solution are assessed. (21.3.6)"></option>
+						<option name="C" type="0.5" data-ans="Correct: It is during Deployment that the deployed solution is assessed for its ability to enable the delivery of the intended elements of business benefits. (15.5.3 / 21.3.5)"></option>
+						<option name="D" type="0" data-ans="Incorrect: This is an objective of Evolutionary Development, to address the non-functional requirements, and refine the Evolving Solution to meet the agreed acceptance criteria. (15.3.4)"></option>
+						<option name="E" type="0.5" data-ans="Correct: This will happen during Deployment, when the end-products of the project are to be distributed outside of the organisation creating it. (15.3.5)"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: This is an objective of Evolutionary Development, to address the non-functional requirements, and refine the Evolving Solution to meet the agreed acceptance criteria. (15.3.5)"></option>
+						<option name="B" type="0" data-ans="Incorrect: It is during Deployment that the deployed solution is assessed for its ability to enable the delivery of the intended elements of business benefits (15.3.5)"></option>
+						<option name="C" type="0" data-ans="Incorrect: Training for end users, support and maintenance staff should be carried out during Deployment. (15.3.5)"></option>
+						<option name="D" type="0.5" data-ans="Correct: It is during Post-Project that the benefits achieved through use of the Deployed Solution are assessed. (15.3.6 / 21.3.6)"></option>
+						<option name="E" type="0.5" data-ans="Correct: It is during Post-Project that the benefits achieved through use of the Deployed Solution are assessed. (15.3.6 / 21.3.6)"></option>
+					</options>
+				</question>	
+			</part>
+			<part name="C">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="False: The maintainability objective for the catalogue should be either a required attribute of the initial delivered solution or a ‘deliver first, re-engineer later’ solution. This is because the production of the catalogue has a future life and is not a short-term stop gap. (22.2.3)
+True: The target for a short-term, tactical solution is to deliver a solution as early as possible. Acceptance will not consider maintainability since it is a one-off or temporary solution. (22.2.3.3)"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>						
+						<option name="A" type="1" data-ans="True: During Feasibility it is important to consider the Total Cost of Ownership (TCO), which typically includes the support and maintenance costs for a number of years, alongside the development cost. This has significant effect on the Business Case for the project. (22.2.5)
+True: By the end of Feasibility there should be an early understanding of the appropriate Solution Quality acceptance criteria, based on any general high-level acceptance criteria and the level of maintainability for the solution. The answer is A because the inclusion of photographs is part of the Feasibility Assessment to gain an early understanding of the appropriate Solution Quality acceptance criteria. (22.2.5)"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>						
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="1" data-ans="False: Any generally high-level acceptance criteria, particularly where these are non-standard can be agreed during Feasibility. (22.2.5)
+False: Decisions on quality should be made early so that everyone involved in the project clearly understands what is and what is not acceptable. In Feasibility the early expectations for quality are set. (22.2.5)"></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans="True: During Evolutionary Development, the acceptance criteria for each of the individual requirements that are to be developed in a Timebox are agreed. (22.2.5)
+False: The objectives for each Timebox must be agreed before starting any development in a Timebox, during Evolutionary Development. The Development Approach Definition provides a high-level definition of the tools, techniques, customs, practices and standards that will be applied to the evolutionary development of the solution. It also includes a strategy for Testing and Review. (22.2.5 / 16.6.1)"></option>
+						<option name="D" type="0"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>
+				<question no="5">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans="False: The Solution Tester is an empowered Solution Development Team role, fully integrated within the team and performing testing throughout the project in accordance with the agreed strategy. (14.11)
+True: Both Technical and Business Testing should take place before the end of the Timebox. This ensures the right people are involved at the right time and allows ongoing acceptance of completed requirements. (22.2.5)"></option>
+						<option name="E" type="0"></option>
+					</options>
+				</question>	
+					
+			</part>
+			<part name="D">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: The sample cover pictures (Requirement 5.5) are a deliverable of this project. It is therefore an activity to be planned for within this project. (8.2.6 /9.2.2 / 21.3.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: Whilst the external illustrator is not within the Agile team, he/she would be an External supplier and should be recorded as the person responsible for providing the pictures. (8.2.6 /9.2.2 / 21.3.3)"></option>
+						<option name="C" type="0" data-ans="Incorrect: This does not move to the Deployment Plan, The Timebox Plan is the appropriate document because it should contain the allocation of resources to the timebox and other activities. (8.2.6 /9.2.2 / 21.3.3)"></option>
+						<option name="D" type="1" data-ans="Correct: A Timebox Plan elaborates on the objectives provided for that Timebox and details the deliverables, along with the activities to produce those deliverables and the resources to do the work. (8.2.11)"></option>
+ 					</options>
+				</question>	
+				<question no="2">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans="Correct: The Project Manager needs to ensure that by the end of the Foundations phase all high-level requirements are captured in the PRL and, at least for the first/imminent Project Increment. (15.3.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: This is not a ‘test’ activity. The Solution Tester is a member of the Solution Development Team. (15.3.4/15.4/21.3.2)"></option>
+						<option name="C" type="0" data-ans="Incorrect: The Delivery Plan shows a schedule of timeboxes and other activities for the delivery of project products covering all aspects of Evolutionary Development and Deployment. (15.3.4/15.4/21.3.2/21.3.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: A Timebox Plan elaborates on the objectives provided for that Timebox and details the deliverables, along with the activities to produce those deliverables and the resources to do the work. (8.2.11)"></option>
+ 					</options>
+				</question>		
+				<question no="3">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: R5.7 is a Should Have requirement. This is a product required for this project. Whilst it is not developed by internal resources, the activity to obtain it should be planned. (21.3.2/21.3.3)"></option>
+						<option name="B" type="0" data-ans="Incorrect: This is a product required for this project. Whilst it is not developed by internal resources, the activity to obtain it should be planned. (21.3.2/21.3.3)"></option>
+						<option name="C" type="0" data-ans="Incorrect: The Delivery Plan shows a schedule of timeboxes and other activities for the delivery of project products covering all aspects of evolutionary development and deployment. (21.3.2/21.3.3)"></option>
+						<option name="D" type="1" data-ans="Correct: A Timebox Plan elaborates on the objectives provided for that Timebox and details the deliverables, along with the activities to produce those deliverables and the resources to do the work. (8.2.11)"></option>
+ 					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: All requirements should be planned for. If the Must Have and Should Have requirements are completed, then the Could Have’s can be delivered. (17.5/21.3.4)"></option>
+						<option name="B" type="1" data-ans="Correct: A Timebox Plan elaborates on the objectives provided for that Timebox and details the deliverables, along with the activities to produce those deliverables and the resources to do the work. (8.2.11)"></option>
+						<option name="C" type="0" data-ans="Incorrect: This is a Could Have requirement and will therefore not impact significantly on the Business Case. However, the requirement should not be moved to the Business Case. It will already be there. (21.3.2/21.3.3)"></option>
+						<option name="D" type="0" data-ans="Incorrect: The Delivery Plan should contain the allocation of resources to timeboxes and other activities. (21.3.2/21.3.3)"></option>
+ 					</options>
+				</question>		
+				<question no="5">
+					<spm_objectives>
+						<spm_association>LP</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0" data-ans="Incorrect: The finished catalogue is to be delivered to Geneva. It will be printed within the scope of this project. (Project Scenario)"></option>
+						<option name="B" type="0" data-ans="Incorrect: Activities are assigned to the Solution Development Team. The Project Manager is responsible for monitoring progress, managing risks and issues, and motivating the teams to meet their objectives. (15.3.4/21.3.2/21.3.3)"></option>
+						<option name="C" type="0" data-ans="Incorrect: The costs will impact on the Business Case, but the activity to obtain them should be planned for. The outcome may require the Business Case to be amended. (21.3.7)"></option>
+						<option name="D" type="1" data-ans="Correct: A Timebox Plan elaborates on the objectives provided for that Timebox and details the deliverables, along with the activities to produce those deliverables and the resources to do the work. (8.2.11)"></option>
+ 					</options>
+				</question>			
+			</part>
+		</parts>
+	</syllabus>			
+	<syllabus name="Sample Module" no="5">
+		<parts>
+			<part name="A">
+				<question no="1">
+					<spm_objectives>
+						<spm_association>Intro</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="1" data-ans="Extreme Programming (XP) is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent 'releases' in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted."></option>
+						<option name="D" type="0"></option>
+					</options>
+				</question>
+				<question no="2">
+					<spm_objectives>
+						<spm_association>Intro</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="1" data-ans="Lean development can be summarized by seven principles, very close in concept to lean manufacturing principles: Eliminate waste, Amplify learning, Decide as late as possible, Deliver as fast as possible, Empower the team, Build integrity in, See the whole;"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+					</options>
+				</question>
+				<question no="3">
+					<spm_objectives>
+						<spm_association>Intro</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="0"></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="1" data-ans=" Dynamic systems development method (DSDM) is an agile project delivery framework, primarily used as a software development method. First released in 1994, DSDM originally sought to provide some discipline to the rapid application development (RAD) method. In 2007 DSDM became a generic approach to project management and solution delivery. DSDM is an iterative and incremental approach that embraces principles of Agile development, including continuous user/customer involvement."></option>
+					</options>
+				</question>
+				<question no="4">
+					<spm_objectives>
+						<spm_association>Intro</spm_association>
+						<spm_reference>Please refer to the appropriate index entry in the AgilePM Guide</spm_reference>
+					</spm_objectives>
+					<options>
+						<option name="A" type="1" data-ans=" Scrum is an iterative and incremental agile software development framework for managing software projects and product or application development. It challenges assumptions of the traditional, sequential approach to product development. Scrum enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members and daily face to face communication among all team members and disciplines in the project. A key principle of Scrum is its recognition that during a project the customers can change their minds about what they want and need (often called requirements churn), and that unpredicted challenges cannot be easily addressed in a traditional predictive or planned manner. It focusses on maximizing the team's ability to deliver quickly and respond to emerging requirements."></option>
+						<option name="B" type="0"></option>
+						<option name="C" type="0"></option>
+						<option name="D" type="0"></option>
+					</options>
+				</question>
+						
+			</part>
+		</parts>
+	</syllabus>			
+	
+</spm_testbank>
+</ptest>
